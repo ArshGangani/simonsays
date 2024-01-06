@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    border: solid black 7px;
+    border-radius: 20%;
+    margin: 2rem;
+}
+
+.maindiv {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#pink {
+    background-color: pink;
+}
+
+#green {
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#purple {
+    background-color: purple;
+}
