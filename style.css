@@ -16,18 +16,26 @@ body {
     
 }
 
-#pink {
-    background-color: pink;
+.red {
+    background-color: #FD433E;
 }
 
-#green {
-    background-color: green;
+.green {
+    background-color: #3ACA4A;
 }
 
-#yellow {
-    background-color: yellow;
+.yellow {
+    background-color: #FEDA30;
 }
 
-#purple {
-    background-color: purple;
+.blue {
+    background-color: #1277D6;
+}
+
+.btncolor {
+    background-color: white;
+}
+
+.usercolor {
+    background-color: rgba(18, 17, 17, 0.5);
 }
